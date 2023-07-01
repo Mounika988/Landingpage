@@ -1,0 +1,8 @@
+.nav{
+    display:flex;
+    background-color: black;
+    color:white;
+}
+ul li{
+    list-style-type: none;
+}
